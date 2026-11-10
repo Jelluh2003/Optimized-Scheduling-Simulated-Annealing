@@ -82,4 +82,4 @@ The run time is set in `main()` (`runtime_limit_seconds`). A progress dashboard 
 |---|---|
 | `Programming_Assignment_EBC2180-1.py` | Solver (greedy initialization, operators, simulated annealing loop) |
 | `sol.txt` | Example solution output |
-| `Programming_Assignment_Report.pdf` | Short written report on the solution and the weighting experiments |
+
